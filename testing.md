@@ -1,6 +1,6 @@
 what happens if i forget the extension?
 
-==header
+==header==
 
 * bullet
 
